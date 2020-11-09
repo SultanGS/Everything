@@ -1,0 +1,13 @@
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\bin\Debug\netcoreapp3.1\Static.exe
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\bin\Debug\netcoreapp3.1\Static.deps.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\bin\Debug\netcoreapp3.1\Static.runtimeconfig.dev.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\bin\Debug\netcoreapp3.1\Static.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\bin\Debug\netcoreapp3.1\Static.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfoInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\obj\Debug\netcoreapp3.1\Static.AssemblyInfo.cs
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\obj\Debug\netcoreapp3.1\Static.csproj.CoreCompileInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\obj\Debug\netcoreapp3.1\Static.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\obj\Debug\netcoreapp3.1\Static.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\obj\Debug\netcoreapp3.1\Static.genruntimeconfig.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Static\obj\Debug\netcoreapp3.1\Static.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\bin\Debug\netcoreapp3.1\Abstract.exe
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\bin\Debug\netcoreapp3.1\Abstract.deps.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\bin\Debug\netcoreapp3.1\Abstract.runtimeconfig.dev.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\bin\Debug\netcoreapp3.1\Abstract.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\bin\Debug\netcoreapp3.1\Abstract.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfoInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\obj\Debug\netcoreapp3.1\Abstract.AssemblyInfo.cs
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\obj\Debug\netcoreapp3.1\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\obj\Debug\netcoreapp3.1\Abstract.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\obj\Debug\netcoreapp3.1\Abstract.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Abstract\obj\Debug\netcoreapp3.1\Abstract.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Array\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache

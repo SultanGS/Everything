@@ -1,0 +1,12 @@
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\bin\Debug\netcoreapp3.1\Sealed(method).exe
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\bin\Debug\netcoreapp3.1\Sealed(method).deps.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\bin\Debug\netcoreapp3.1\Sealed(method).runtimeconfig.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\bin\Debug\netcoreapp3.1\Sealed(method).runtimeconfig.dev.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\bin\Debug\netcoreapp3.1\Sealed(method).dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\bin\Debug\netcoreapp3.1\Sealed(method).pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\obj\Debug\netcoreapp3.1\Sealed(method).AssemblyInfoInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\obj\Debug\netcoreapp3.1\Sealed(method).AssemblyInfo.cs
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\obj\Debug\netcoreapp3.1\Sealed(method).csproj.CoreCompileInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\obj\Debug\netcoreapp3.1\Sealed(method).dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\obj\Debug\netcoreapp3.1\Sealed(method).pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\Sealed(method)\obj\Debug\netcoreapp3.1\Sealed(method).genruntimeconfig.cache
