@@ -1,0 +1,13 @@
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\bin\Debug\netcoreapp3.1\Task6.exe
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\bin\Debug\netcoreapp3.1\Task6.deps.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\bin\Debug\netcoreapp3.1\Task6.runtimeconfig.dev.json
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\bin\Debug\netcoreapp3.1\Task6.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\bin\Debug\netcoreapp3.1\Task6.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\obj\Debug\netcoreapp3.1\Task6.csprojAssemblyReference.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfoInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\obj\Debug\netcoreapp3.1\Task6.AssemblyInfo.cs
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\obj\Debug\netcoreapp3.1\Task6.csproj.CoreCompileInputs.cache
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\obj\Debug\netcoreapp3.1\Task6.dll
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\obj\Debug\netcoreapp3.1\Task6.pdb
+C:\Users\Sultan A.Guliev\Desktop\Base\Everything\MixedTasks(1ton)\Mixedtasks(1ton)\Task6\obj\Debug\netcoreapp3.1\Task6.genruntimeconfig.cache
